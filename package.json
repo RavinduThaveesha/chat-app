@@ -20,6 +20,7 @@
   "homepage": "https://github.com/RavinduThaveesha/chat-app#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mongoose": "^7.0.3",
     "socket.io": "^4.6.1"
   }
 }
